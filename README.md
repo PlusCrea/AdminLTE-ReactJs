@@ -1,3 +1,8 @@
+Converted from AdminLTe to React (Html to ReactJs)
+
+https://adminlte.io/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
